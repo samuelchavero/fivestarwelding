@@ -54,7 +54,10 @@
                             </div>
                            
                         </div>
-                        <a href="galeria.html" class="nav-item nav-link">Galeria</a>
+                        <a href="galeria 1.html" class="nav-item nav-link">Galeria 1</a>
+                        <a href="galeria 2.html" class="nav-item nav-link">Galeria 2</a>
+                        <a href="galeria 3.html" class="nav-item nav-link">Galeria 3</a>
+                        <a href="galeria 4.html" class="nav-item nav-link">Galeria 4</a>
                     </div>
                 </div>
             </nav>
@@ -128,7 +131,7 @@
                         <i class="fa fa-2x fa-map-marker-alt text-primary mr-3"></i>
                         <div class="d-flex flex-column">
                             <h5 class="font-weight-bold">Nuestra Compania</h5>
-                            <p class="m-0">8306 Gulf Freeway, Houston, Tx</p>
+                            <p class="m-0">7821 Arberry St, Houston, Tx</p>
                         </div>
                     </div>
                 </div>
@@ -495,7 +498,7 @@
             <div class="col-lg-3 col-md-6 mb-5">
                 <h5 class="font-weight-bold text-primary mb-4">Nuestra Información</h5>
                 
-                <p><i class="fa fa-map-marker-alt text-primary mr-2"></i>8306 Gulf Freeway, Houston, Tx</p>
+                <p><i class="fa fa-map-marker-alt text-primary mr-2"></i>7821 Arberry St, Houston, Tx</p>
                 <p><i class="fa fa-phone-alt text-primary mr-2"></i>+1 (832) 630-7200</p>
                 <p><i class="fa fa-envelope text-primary mr-2"></i>Rolandomunguia25@gmail.com</p>
             </div>
